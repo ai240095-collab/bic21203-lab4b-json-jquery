@@ -15,11 +15,35 @@ The lab focuses on JSON data structures, retrieving JSON data using JavaScript f
 ### Question 1 - Create and Structure JSON Data
 Created a valid JSON file named books.json containing two book objects with their titles, authors, publication years and genres.
 
+The following screenshots show the JSON file structure and successful validation.
+
+**JSON File in Visual Studio Code**
+
+![Q1 JSON Structure](screenshots/Q1-json.png)
+
+**JSON Validation using JSONLint**
+
+![Q1 JSON Validation](screenshots/Q1-validation.png)
+
+
 ### Question 2 - Retrieve and Display JSON Data
 Created books.html using the JavaScript fetch() API to retrieve data from books.json and display the required book information.
 
+The screenshot below shows the book information successfully retrieved from books.json using the fetch() API.
+
+![Q2 Fetch Output](screenshots/Q2-fetch-output.png)
+
+
 ### Question 3 - Compare Native JavaScript and jQuery
 Created jquery-dom.html using jQuery 4.0.0 to modify text, add CSS classes and handle button click events.
+
+**DOM Manipulation using jQuery**
+
+![Q3 jQuery Output](screenshots/Q3-jquery-output.png)
+
+**Button Click Event**
+
+![Q3 Button Alert](screenshots/Q3-button-alert.png)
 
 ## How to Run
 
